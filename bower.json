@@ -1,0 +1,24 @@
+{
+  "name": "djtutorials.ru",
+  "authors": [
+    "Valentin <danadj@yandex.ru>"
+  ],
+  "description": "video blog about djing",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "djtutorials.ru",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "normalize-css": "normalize.css#~3.0.3"
+  }
+}
